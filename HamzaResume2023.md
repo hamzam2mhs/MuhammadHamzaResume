@@ -1,9 +1,3 @@
----
-layout: page
-title: Resume
-permalink: /resume/
----
-
 # Muhammad Hamza
 
 204-952-8742  
