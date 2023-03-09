@@ -43,9 +43,9 @@ The practical steps described above relate to the general principles of current 
 
 Overall, the practical steps described above demonstrate how Technical Writing principles can be applied to create a professional and effective resume using modern tools and technologies. By using Markdown and Jekyll, you can focus on the content and presentation of your resume, without worrying about the technical details of website creation and hosting.
 
-Andrew Etter's book "Modern Technical Writing: An Introduction to Software Documentation" discusses the benefits of using Jekyll for technical documentation. 
+Andrew Etter's book ["Modern Technical Writing: An Introduction to Software Documentation"](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) discusses the benefits of using Jekyll for technical documentation. 
 
-Jekyll is a static site generator that allows developers to create websites without the need for a traditional web server.
+[Jekyll](https://jekyllrb.com/) is a static site generator that allows developers to create websites without the need for a traditional web server.
 
 In the book, Etter explains that Jekyll is an ideal tool for technical writers because it simplifies the process of creating and publishing technical documentation. He notes that Jekyll is highly customizable, allowing writers to create their own templates and layouts to suit their specific needs. Additionally, Jekyll's built-in support for Markdown makes it easy for writers to create clean, readable documentation.
 
