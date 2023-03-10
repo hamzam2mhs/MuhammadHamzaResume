@@ -29,6 +29,7 @@ This README describes the practical steps of how to host and format a resume usi
 
 10. **Share Your Resume**: Share the link to your resume with potential employers, colleagues, or friends. You can also include it in your email signature, LinkedIn profile, or business cards.
 
+
 ## Principles of Technical Writing
 
 The practical steps described above relate to the general principles of current Technical Writing in several ways:
